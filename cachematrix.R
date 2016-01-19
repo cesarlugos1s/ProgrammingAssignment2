@@ -8,7 +8,7 @@
 # - set the value of the matrix that we will later use to compute its inverse (in the next makeCacheMatrix function)
 # - get the value of that matrix
 # - set the value of the inverse of the matrix
-# - get the value of the inverse of the matrix
+# - get the value of the inverse of the matrix 
 
 makeCacheMatrix <- function(x = matrix()) 
 {
